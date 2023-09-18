@@ -30,7 +30,7 @@ Las tencnologías que utilicé son:
 Aprender a utilizar las etiquetas estásndar de HTML5 y CSS 3.
 
 ## Link a Demos
-Aquí puedes ver mi proyecto terminado: [CLonación de Google](https://clonde-google-weld.vercel.app/)
+Aquí puedes ver mi proyecto terminado: [Clonación de Google](https://clonde-google-weld.vercel.app/)
 
 
 
